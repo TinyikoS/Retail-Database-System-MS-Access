@@ -2,7 +2,8 @@
 
 ## Project Description
 
-This group project involved the design and implementation of a fully normalized Microsoft Access database system for Milly’s Chocolate Factory, a chain of chocolate shops that distributes chocolates and sweets to retailers.
+This group project involved the design and implementation of a fully normalized Microsoft Access database system for Milly’s Chocolate Factory, a chain of chocolate shops that distributes chocolates and sweets to retailers. 
+Level: First-year Bachelor of Computing coursework
 
 The project was completed in two phases:
 - **Section 1:** Design of a complete Entity-Relationship (ER) model based on business rules.
